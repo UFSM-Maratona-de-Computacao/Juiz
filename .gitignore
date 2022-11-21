@@ -1,0 +1,6 @@
+*
+!.gitignore
+!install.sh
+!juiz.py
+!LICENSE
+!config.yml.example
